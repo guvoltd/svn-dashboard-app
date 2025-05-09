@@ -72,3 +72,26 @@ A secure PHP application for managing user and admin access to SVN repositories 
 ## 📂 Folder Structure
 
 
+svn-dashboard-app/
+├── app/
+│ ├── controllers/
+│ ├── models/
+│ ├── views/
+│ ├── svn/
+│ ├── middleware/
+│ └── helpers/
+├── config/
+├── public/
+├── data/
+├── logs/
+├── scripts/
+├── sql/
+├── assets/
+└── README.md
+
+
+---
+
+## 🙌 Credits
+
+Built using PHP, Bootstrap 5, Chart.js, and native SVN CLI integration.
